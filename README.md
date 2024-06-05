@@ -15,7 +15,9 @@
 
 <h2> 🤳 Connect with me:</h2>
 
+<div style="display: flex;">
+  <a href="https://www.linkedin.com/in/ismailcoding//" style="margin-right: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" alt="LinkedIn" width="50" height="50">
+  </a>
 
-[linkedin]: https://linkedin.com/in/ismailcoding
-
-
+</div>
