@@ -14,8 +14,8 @@
 <ul>
   <li>CompTIA Security+</li>
   <li>CEH in progress</li>
-   <li> </li>
-   <li> </li>
+  
+   
 </ul>
 
 <h2> 🤳 Connect with me:</h2>
