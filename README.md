@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cyber security Projects:</h2>
 <ul>
-  <li>🔼 Network scanner https://github.com/isma1lcOding/Network-Scanning</li>
-  <li>/li>
+  <li> [ Network scanner ] https://github.com/isma1lcOding/Network-Scanning 🔼</li>
+  <li> </li>
 </ul>
 
 
