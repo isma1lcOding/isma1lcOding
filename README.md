@@ -9,6 +9,8 @@
 <ul>
   <li> https://ahsancorporation.com/</li>
   <li> https://ismailcoding.wordpress.com/</li>
+  <li>http://ismailcoding.kesug.com/</li>
+<li>http://www.ismailcoding.lovestoblog.com/</li>
 
 </ul>
 
